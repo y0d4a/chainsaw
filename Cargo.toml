@@ -22,7 +22,7 @@ indicatif = "0.16"
 is_elevated = "0.1.2"
 itertools = "0.10"
 log = "0.4"
-prettytable-rs = "0.7"
+prettytable-rs = "0.10"
 rayon = "1.5"
 regex = "1.4"
 serde = { version = "=1.0.117", features = ["derive"]}
